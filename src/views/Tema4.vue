@@ -24,7 +24,7 @@
         figure
           img(src="@/assets/curso/tema4/2.png", data-aos="zoom-in")
       .col-lg-7.order-lg-1
-        p(data-aos="fade-left") Las Zonas de Reserva Campesina (ZRC), contempladas en la Ley 160 de 1994, han sido una herramienta clave para que comunidades rurales organizadas protejan su territorio, fortalezcan sus economías locales y exijan el cumplimiento de derechos agrarios. Ejemplos como la ZRC del Valle del río Cimitarra, en el Magdalena Medio, muestran cómo la organización ha permitido frenar la expansión de economías extractivas, defender la tierra y desarrollar proyectos productivos sostenibles. Además, han promovido procesos de planeación desde abajo, elaborando planes de desarrollo con enfoque territorial y comunitario.
+        p(data-aos="fade-left") Las Zonas de Reserva Campesina (ZRC), contempladas en la Ley 160 de 1994, han sido una herramienta clave para que comunidades rurales organizadas protejan su territorio, fortalezcan sus economías locales y exijan el cumplimiento de derechos agrarios. Ejemplos como la ZRC del Valle del Río Cimitarra, en el Magdalena Medio, muestran cómo la organización ha permitido frenar la expansión de economías extractivas, defender la tierra y desarrollar proyectos productivos sostenibles. Además, han promovido procesos de planeación desde abajo, elaborando planes de desarrollo con enfoque territorial y comunitario.
     
         .bg-color-2.p-4.tarjeta(data-aos="fade-left")
           p.mb-0 En departamentos como Nariño, Cauca y Putumayo, las organizaciones campesinas han participado activamente en los consejos de planeación municipal, logrando incluir propuestas veredales en los planes de desarrollo. Gracias a la persistencia organizativa y al acompañamiento técnico, estas iniciativas han ganado legitimidad e influencia. Organizaciones como Fensuagro han desempeñado un papel fundamental en la articulación de agendas rurales a nivel nacional.
@@ -39,7 +39,7 @@
         figure
           img(src="@/assets/curso/tema4/3.png", data-aos="zoom-in")
       .col-lg-9.order-lg-1
-        p(data-aos="fade-left") En Santander, la ZRC del Valle del río Cimitarra es un referente nacional en defensa del territorio y en organización comunitaria. Allí, cientos de familias han impulsado un modelo de producción agroecológica, planificación participativa y desarrollo alternativo. La articulación con entidades públicas y organismos internacionales ha permitido obtener reconocimiento, inversión social y visibilización de las propuestas campesinas.
+        p(data-aos="fade-left") En Santander, la ZRC del Valle del Río Cimitarra es un referente nacional en defensa del territorio y en organización comunitaria. Allí, cientos de familias han impulsado un modelo de producción agroecológica, planificación participativa y desarrollo alternativo. La articulación con entidades públicas y organismos internacionales ha permitido obtener reconocimiento, inversión social y visibilización de las propuestas campesinas.
     
         .bg-color-12.tarjeta.p-4(data-aos="fade-left")
           .row.align-items-start

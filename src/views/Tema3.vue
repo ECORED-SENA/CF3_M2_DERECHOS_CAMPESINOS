@@ -115,7 +115,7 @@
               .col-lg-auto.mb-3.mb-lg-0
                 img(src="@/assets/curso/tema3/12.png").mx-auto
               .col-lg
-                p.mb-0 El uso de tecnologías apropiadas —como emisoras comunitarias o plataformas digitales accesibles— puede acercar los procesos institucionales a las zonas más apartadas. Asimismo, es fundamental exigir a las instituciones mayor apertura, descentralización y voluntad política, lo cual implica simplificar trámites, adaptar horarios y lugares de reunión, y ofrecer apoyo logístico cuando sea necesario.
+                p.mb-0 El uso de tecnologías apropiadas como emisoras comunitarias o plataformas digitales accesibles puede acercar los procesos institucionales a las zonas más apartadas. Asimismo, es fundamental exigir a las instituciones mayor apertura, descentralización y voluntad política, lo cual implica simplificar trámites, adaptar horarios y lugares de reunión y ofrecer apoyo logístico cuando sea necesario.
         
         .bg-color-6.tarjeta.mb-5
           .px-4.px-md-5.py-4

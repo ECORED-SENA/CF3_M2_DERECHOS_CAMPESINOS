@@ -80,7 +80,7 @@
                   .bg-color-white.p-4.h-100.box-shadow
                     img(src='@/assets/curso/tema2/11.svg' alt='AvatarTop' , style="max-width: 90px").mx-auto.mb-3
                     h4.text-center.mb-4 Plebiscito
-                    p.text-center Mecanismo mediante el cual la ciudadanía aprueba o rechaza decisiones del Ejecutivo sobre temas de especial importancia nacional.
+                    p.text-center Mecanismo mediante el cual la ciudadanía aprueba o rechaza decisiones del ejecutivo sobre temas de especial importancia nacional.
                   .bg-color-white.p-4.h-100.box-shadow
                     img(src='@/assets/curso/tema2/12.svg' alt='AvatarTop' , style="max-width: 90px").mx-auto.mb-3
                     h4.text-center.mb-4 Referendo
@@ -92,7 +92,7 @@
                   .bg-color-white.p-4.h-100.box-shadow
                     img(src='@/assets/curso/tema2/14.svg' alt='AvatarTop' , style="max-width: 90px").mx-auto.mb-3
                     h4.text-center.mb-4 Iniciativa legislativa
-                    p.text-center Derecho ciudadano de presentar proyectos de ley ante el Congreso o concejos municipales.
+                    p.text-center Derecho ciudadano de presentar proyectos de ley ante el congreso o concejos municipales.
                   .bg-color-white.p-4.h-100.box-shadow
                     img(src='@/assets/curso/tema2/15.svg' alt='AvatarTop' , style="max-width: 90px").mx-auto.mb-3
                     h4.text-center.mb-4 Cabildo abierto
@@ -115,7 +115,7 @@
             #t_2_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
               h2 2.1 Espacios institucionales 
             
-            p.mb-5 En Colombia, los espacios institucionales de participación rural son escenarios creados por la ley con el objetivo de garantizar que las comunidades rurales —en especial el campesinado, los pueblos indígenas, las comunidades afrodescendientes, las mujeres rurales y los jóvenes— puedan intervenir en la formulación, seguimiento y evaluación de las políticas públicas.
+            p.mb-5 En Colombia, los espacios institucionales de participación rural son escenarios creados por la ley con el objetivo de garantizar que las comunidades rurales en especial el campesinado, los pueblos indígenas, las comunidades afrodescendientes, las mujeres rurales y los jóvenes, puedan intervenir en la formulación, seguimiento y evaluación de las políticas públicas.
 
             .row.align-items-center
               .col-lg-4.mb-3.mb-lg-0
@@ -132,19 +132,19 @@
                       ul.lista-ul--color
                         li.mb-2.d-flex.bg-color-11.tarjeta.p-2
                           i.fas.fa-leaf.bg-color-10
-                          p.mb-0 Acceso a tierras
+                          p.mb-0 Acceso a tierras.
                         li.mb-2.d-flex.bg-color-11.tarjeta.p-2
                           i.fas.fa-leaf.bg-color-10
-                          p.mb-0 Proyectos productivos
+                          p.mb-0 Proyectos productivos.
                         li.mb-2.d-flex.bg-color-11.tarjeta.p-2
                           i.fas.fa-leaf.bg-color-10
-                          p.mb-0 Infraestructura
+                          p.mb-0 Infraestructura.
                         li.mb-2.d-flex.bg-color-11.tarjeta.p-2
                           i.fas.fa-leaf.bg-color-10
-                          p.mb-0 Educación rural
+                          p.mb-0 Educación rural.
                         li.mb-2.d-flex.bg-color-11.tarjeta.p-2
                           i.fas.fa-leaf.bg-color-10
-                          p.mb-0 Protección del medio ambiente
+                          p.mb-0 Protección del medio ambiente.
 
     p.mb-5 Su existencia tiene como propósito construir una gobernanza más democrática y participativa desde el territorio, garantizando que las decisiones respondan a las realidades y necesidades locales. Las características principales de estos espacios:
 
@@ -220,7 +220,7 @@
       .col-lg-9
         AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta bg-color-8")
           div(titulo="Agencia Nacional de Tierras")
-            p.ms-5 Administra, recupera, adjudica y formaliza tierras rurales con enfoque social. Busca garantizar el acceso a la tierra como derecho fundamental para comunidades campesinas, indígenas y afrodescendientes. Fue creada para implementar políticas de redistribución y regularización de tierras, conforme al Acuerdo Final de Paz. Promueve el ordenamiento social del territorio y la seguridad jurídica, priorizando a quienes carecen de tierra o la poseen informalmente.
+            p.ms-5 Administra, recupera, adjudica y formaliza tierras rurales con enfoque social. Busca garantizar el acceso a la tierra como derecho fundamental para comunidades campesinas, indígenas y afrodescendientes. Fue creada para implementar políticas de redistribución y regularización de tierras, conforme al acuerdo final de paz. Promueve el ordenamiento social del territorio y la seguridad jurídica, priorizando a quienes carecen de tierra o la poseen informalmente.
           div(titulo="Agencia de Desarrollo Rural")
             p.ms-5 Fortalece las capacidades del campo mediante proyectos productivos, infraestructura y servicios rurales. Su misión es integrar a las comunidades en el desarrollo económico y social, fomentando la asociatividad y el cierre de brechas entre campo y ciudad. Trabaja con enfoque territorial, apoyando la comercialización, asistencia técnica y acceso a recursos, con el fin de transformar las condiciones estructurales del agro.
           div(titulo="Consejo Nacional de Reforma Agraria y Desarrollo Rural")

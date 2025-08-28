@@ -136,7 +136,7 @@
                     figure
                       img(src="@/assets/curso/tema1/17.svg", data-aos="zoom-in")
                   .col-lg
-                    p(data-aos="fade-left").mb-4 Lo invitamos a escuchar el siguiente Pódcast:
+                    p(data-aos="fade-left").mb-4 Lo invitamos a escuchar el siguiente pódcast:
             
                     TarjetaAudio.color-acento-botones.bg-color-white.mb-3(
                       texto="Derechos humanos en la participación campesina"
@@ -149,7 +149,7 @@
         #t_1_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
           h2 1.3 Participación ciudadana como derecho constitucional
         
-        p.mb-5 La participación ciudadana es un derecho constitucional que permite a la población intervenir activamente en los asuntos públicos, influir en las decisiones del Estado y ejercer control sobre quienes gobiernan. Este derecho está consagrado principalmente en el Artículo 40 de la Constitución Política de Colombia, que reconoce la facultad de toda persona para participar en la conformación, ejercicio y control del poder político. Además, el preámbulo y los artículos 1, 2 y 103 refuerzan el carácter democrático y participativo del Estado colombiano.
+        p.mb-5 La participación ciudadana es un derecho constitucional que permite a la población intervenir activamente en los asuntos públicos, influir en las decisiones del estado y ejercer control sobre quienes gobiernan. Este derecho está consagrado principalmente en el artículo 40 de la Constitución Política de Colombia, que reconoce la facultad de toda persona para participar en la conformación, ejercicio y control del poder político. Además, el preámbulo y los artículos 1, 2 y 103 refuerzan el carácter democrático y participativo del estado colombiano.
            
         .row.mb-5
           .col-lg-5.mb-3.mb-lg-0
@@ -192,7 +192,7 @@
                 img(src="@/assets/curso/tema1/22.png")
             .col-lg-7.order-1.mb-3.mb-lg-0
               h5 Leyes que regulan la participación
-              p Ley 134 de 1994 y Ley 1757 de 2015: Establecen mecanismos, procedimientos y promueven la cultura del control ciudadano.
+              p Ley 134 de 1994 y Ley 1757 de 2015: establecen mecanismos, procedimientos y promueven la cultura del control ciudadano.
           .row.align-items-center.p-4.p-md-5
             .col-lg-5.order-2
               figure
@@ -236,7 +236,7 @@
                 img(src='@/assets/curso/tema1/27.png', alt='')
             .col-lg
               .p-4.p-lg-2
-                p.mb-0(data-aos="fade-up") En el marco legal colombiano, esta protección se fundamenta en el Artículo 13 de la Constitución, que ordena brindar trato especial a grupos históricamente discriminados. Se complementa con otras normas clave, como el Artículo 40, que reconoce el derecho a la participación, y con instrumentos como el Acuerdo Final de Paz (2016), donde se reconoce al campesinado como sujeto político y se promueve su inclusión activa en la formulación de políticas públicas rurales.
+                p.mb-0(data-aos="fade-up") En el marco legal colombiano, esta protección se fundamenta en el Artículo 13 de la Constitución, que ordena brindar trato especial a grupos históricamente discriminados. Se complementa con otras normas clave, como el Artículo 40, que reconoce el derecho a la participación, y con instrumentos como el acuerdo final de paz (2016), donde se reconoce al campesinado como sujeto político y se promueve su inclusión activa en la formulación de políticas públicas rurales.
     
     p.mb-5 Además, mecanismos como los Consejos Municipales de Desarrollo Rural (CMDR) y otras instancias de interlocución buscan fortalecer esa protección, asegurando espacios propios de representación, acceso a información, formación adecuada, y el respeto por la identidad campesina. A continuación, se presentan los elementos constitucionales y legales que conforman esta protección especial:
 
@@ -308,7 +308,7 @@
         .row.mb-5.align-items-center
           .col-lg-5.mb-3.mb-lg-0
             .bg-color-9.tarjeta.p-4.h-100(data-aos="fade-left").align-content-center
-              p.mb-0(data-aos="fade-left") En Colombia, aunque la historia está atravesada por conflictos agrarios, desplazamientos forzados y desigualdades profundas, también ha sido escenario de experiencias valiosas de participación campesina. Desde las ligas campesinas del siglo XX, los paros agrarios, las Zonas de Reserva Campesina y los Consejos de Desarrollo Rural, el campesinado ha demostrado que no solo reclama, sino que también propone y construye.
+              p.mb-0(data-aos="fade-left") En Colombia, aunque la historia está atravesada por conflictos agrarios, desplazamientos forzados y desigualdades profundas, también ha sido escenario de experiencias valiosas de participación campesina. Desde las ligas campesinas del siglo XX, los paros agrarios, las Zonas de Reserva Campesina y los consejos de desarrollo rural, el campesinado ha demostrado que no solo reclama, sino que también propone y construye.
           .col-lg-3.mb-3.mb-lg-0
             figure
               img(src="@/assets/curso/tema1/34.png" data-aos="zoom-in")
